@@ -22,7 +22,7 @@ This repository is organized as follows to help you navigate and utilize the con
 format.
 - **custom_random_forest.py**: Features a custom implementation of the `RandomForestClassifier` class from scikit-learn, 
 with capabilities for parallel processing.
-- **test_custom_bioinformatics_modules.py**: Contains eight simple tests to validate the functionality of the 
+- **test_custom_tools.py**: Contains eight simple tests to validate the functionality of the 
 repository's modules.
 - **data/**: Includes a folder with example data files needed for the examples demonstrated in the Jupyter notebook.
 
