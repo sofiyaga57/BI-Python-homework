@@ -1,1 +1,48 @@
-numpy==1.26.3
+appnope @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/appnope_1699303798458/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+beautifulsoup4==4.12.3
+biopython @ file:///Users/runner/miniforge3/conda-bld/biopython_1704895510696/work
+Brotli @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_27zk0eqdh0/croot/brotli-split_1714483157007/work
+bs4==0.0.2
+certifi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3bzbkiv4h_/croot/certifi_1707229182618/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+comm @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3doui0bmzb/croot/comm_1709322861485/work
+debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699253073094/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+idna @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work
+ipykernel @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f428_5tjvx/croot/ipykernel_1705933835534/work
+ipython @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a1tmxj9b4u/croot/ipython_1704833016119/work
+jedi @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jedi_1699242252604/work
+joblib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f75pzkv6n1/croot/joblib_1713976769255/work
+jupyter_client @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_client_1701803191601/work
+jupyter_core @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_core_1701803168398/work
+matplotlib-inline @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/matplotlib-inline_1699242375920/work
+nest-asyncio @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_310vb5e2a0/croot/nest-asyncio_1708532678212/work
+numpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a51i_mbs7m/croot/numpy_and_numpy_base_1708638620867/work/dist/numpy-1.26.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=37afb6b734a197702d848df93bd67c10b52f6467d56e518950d84b6b1c949d27
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a6lqg7at4g/croot/packaging_1710807410750/work
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+platformdirs @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/platformdirs_1701803010714/work
+prompt-toolkit @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_c63v4kqjzr/croot/prompt-toolkit_1704404354115/work
+psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699248249804/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+Pygments @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pygments_1699238063295/work
+PySocks @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pysocks_1699237568675/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6e_fc8xema/croot/python-dateutil_1715108793034/work
+python-dotenv==1.0.1
+pyzmq @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_43pxpbos3z/croot/pyzmq_1705605108344/work
+requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b3tnputioh/croot/requests_1707355573919/work
+scikit-learn @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6f_fxtrklc/croot/scikit-learn_1714164747354/work
+scipy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6f17pyifw3/croot/scipy_1714069789658/work/dist/scipy-1.13.0-cp312-cp312-macosx_11_0_arm64.whl#sha256=431f79321de6f5cbb09a4544ac8f8accbe05370813bfa1f04a999f0cd7a04646
+setuptools==69.5.1
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.5
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tornado_1699243541634/work
+traitlets @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/traitlets_1699282007293/work
+urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_22oz53beet/croot/urllib3_1715635830593/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+wheel==0.43.0
